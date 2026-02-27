@@ -1,4 +1,4 @@
-public class Main {
+public class AdditionPatternTester {
     public static void main(String[] args) {
         System.out.println("starting at 2 and adding 3");
         AdditionPattern plus3 = new AdditionPattern(2, 3);
